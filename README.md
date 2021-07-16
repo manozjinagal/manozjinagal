@@ -4,6 +4,9 @@
 - 📫 How to reach me: <a href="http://wa.me/918561908667?text=hello+Manoz+🖤" class="google-plus"><i class="bx bxl-whatsapp">  💬 </i></a> <a href="http://manozjinagal@gmail.com" class="google-plus"><i class="bx bxl-mail">  💌  </i></a> <a href="https://www.linkedin.com/in/manozjinagal/" class="linkedin"><i class="bx bxl-linkedin">  🔗 </i></a>
 <img width="729" alt="Screenshot 2021-07-16 at 2 58 29 PM" src="https://user-images.githubusercontent.com/63463176/125926030-2632035a-e686-44ee-a5cd-e62aba550ccb.png">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manozjinagal&show_icons=true&theme=radical)
+
 <!--
 **manozjinagal/manozjinagal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
