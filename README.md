@@ -1,5 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m currently Studying MCA    
+- 🌱 I’m currently Studying MCA   
+- ⚡ Fun fact: Never try to be stubborn with Programming.
 - 👯 I’m looking to collaborate on a SPRING BOOT POWERED PROJECT.
 - 📫 How to reach me: <a href="http://wa.me/918561908667?text=Hey+Manoj,+Found You On Github." class="google-plus"><i class="bx bxl-whatsapp">  💬 </i></a> <a href="http://manozjinagal@gmail.com" class="google-plus"><i class="bx bxl-mail">  💌  </i></a> <a href="https://www.linkedin.com/in/manozjinagal/" class="linkedin"><i class="bx bxl-linkedin">  🔗 </i></a>
 
