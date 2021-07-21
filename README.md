@@ -1,7 +1,15 @@
 ### Hi there 👋
 - 🌱 I’m currently Studying MCA   
+- 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on a SPRING BOOT POWERED PROJECT.
-- 📫 How to reach me: <a href="http://wa.me/918561908667?text=Hey+Manoj,+Found You On Github." class="google-plus"><i class="bx bxl-whatsapp">  💬 </i></a> <a href="http://manozjinagal@gmail.com" class="google-plus"><i class="bx bxl-mail">  💌  </i></a> <a href="https://www.linkedin.com/in/manozjinagal/" class="linkedin"><i class="bx bxl-linkedin">  🔗 </i></a>
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manozjinagal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manozjinagal&show_icons=true&theme=radical)
@@ -21,3 +29,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[website]: https://manozjinagal.github.io
+[twitter]: https://twitter.com/manozjinagal
+[instagram]: https://instagram.com/manozjinagal
+[linkedin]: https://linkedin.com/in/manozjinagal
