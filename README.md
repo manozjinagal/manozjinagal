@@ -8,12 +8,15 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | WhatsApp " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
 
 <br/>
 
+
+### Git Stats
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manozjinagal&show_icons=true&theme=radical)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manozjinagal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
+
 <!--
 **manozjinagal/manozjinagal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -33,3 +36,4 @@ Here are some ideas to get you started:
 [twitter]: https://twitter.com/manozjinagal
 [instagram]: https://instagram.com/manozjinagal
 [linkedin]: https://linkedin.com/in/manozjinagal
+[whatsapp]:http://wa.me/918561908667?text=Hey+there+👋 
