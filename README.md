@@ -9,6 +9,8 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | WhatsApp " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
+[<img align="left" alt="codeSTACKr | GMail " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][Mail]
+[<img align="left" alt="codeSTACKr | Facebook " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br/>
 
@@ -37,3 +39,5 @@ Here are some ideas to get you started:
 [instagram]: https://instagram.com/manozjinagal
 [linkedin]: https://linkedin.com/in/manozjinagal
 [whatsapp]:http://wa.me/918561908667?text=Hey+there+👋 
+[Mail]: https://mail.google.com/mail/?view=cm&fs=1&to=manozjinagal@gmail.com
+[facebook]:https://www.facebook.com/manozjinagal
