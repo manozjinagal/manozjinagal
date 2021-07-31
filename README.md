@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently Studying MCA   
-- 🌱 I’m currently learning everything 🤣.
+- 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on a SPRING BOOT POWERED PROJECT.
 ### 📫 How to reach me:
 
