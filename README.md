@@ -1,7 +1,7 @@
-### Hi there 👋
+### <h1 align = 'right'>![](https://visitor-badge.glitch.me/badge?page_id=manozjinagal)</h1>
+### Hi There 👋
 - 🌱 I’m currently Studying MCA   
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate on a SPRING BOOT POWERED PROJECT.
 - ⚡ Fun fact: Still writing
 ### 📫 How to reach me:
 
@@ -15,13 +15,13 @@
 <a href="https://leetcode.com/manozjinagal/">
   <img align="left" alt="Manoz's LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/leetcode.svg" />
 </a>
-![](https://visitor-badge.glitch.me/badge?page_id=manozjinagal) 
-<br/>
+
 
 ### Git Stats
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manozjinagal&show_icons=true&theme=radical)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manozjinagal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+ <!--
 <br />
 
 <h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
