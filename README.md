@@ -2,6 +2,7 @@
 - 🌱 I’m currently Studying MCA   
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on a SPRING BOOT POWERED PROJECT.
+- ⚡ Fun fact: Still writing
 ### 📫 How to reach me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
