@@ -12,13 +12,24 @@
 [<img align="left" alt="codeSTACKr | WhatsApp " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
 [<img align="left" alt="codeSTACKr | GMail " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][Mail]
 [<img align="left" alt="codeSTACKr | Facebook " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-
+<a href="https://leetcode.com/manozjinagal/">
+  <img align="left" alt="Manoz's LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/leetcode.svg" />
+</a>
+![](https://visitor-badge.glitch.me/badge?page_id=manozjinagal) 
 <br/>
 
 ### Git Stats
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manozjinagal&show_icons=true&theme=radical)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manozjinagal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<br />
+
+<h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
+<p align="center">
+  <img src="https://github.com/manozjinagal/manozjinagal/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
+<br />
 <!--
 **manozjinagal/manozjinagal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
