@@ -12,16 +12,14 @@
 [<img align="left" alt="codeSTACKr | WhatsApp " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
 [<img align="left" alt="codeSTACKr | GMail " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][Mail]
 [<img align="left" alt="codeSTACKr | Facebook " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-<a href="https://leetcode.com/manozjinagal/">
-  <img align="left" alt="Manoz's LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/leetcode.svg" />
-</a>
-
+[<img align="left" alt="Manoz's LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/leetcode.svg" />][leetcode]
 
 ### Git Stats
+
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manozjinagal&show_icons=true&theme=radical)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manozjinagal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
- <!--
+<!--
 <br />
 
 <h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
@@ -52,3 +50,4 @@ Here are some ideas to get you started:
 [whatsapp]:http://wa.me/918561908667?text=Hey+there+👋 
 [Mail]: https://mail.google.com/mail/?view=cm&fs=1&to=manozjinagal@gmail.com
 [facebook]:https://www.facebook.com/manozjinagal
+[leetcode]: https://www.leetcode.com/manozjinagal
