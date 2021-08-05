@@ -3,6 +3,7 @@
 - 🌱 I’m currently Studying MCA   
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: Still writing
+- 
 ### 📫 How to reach me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -13,6 +14,9 @@
 [<img align="left" alt="codeSTACKr | GMail " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][Mail]
 [<img align="left" alt="codeSTACKr | Facebook " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Manoz's LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/leetcode.svg" />][leetcode]
+-
+### Let's Play Chess 
+- [<img align="left" alt="Manoz's LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/lichess.svg" />][lichess]
 
 ### Git Stats
 
@@ -51,3 +55,4 @@ Here are some ideas to get you started:
 [Mail]: https://mail.google.com/mail/?view=cm&fs=1&to=manozjinagal@gmail.com
 [facebook]:https://www.facebook.com/manozjinagal
 [leetcode]: https://www.leetcode.com/manozjinagal
+[lichess]: https://lichess.org/@/manozJinagal
