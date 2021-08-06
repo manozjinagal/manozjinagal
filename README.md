@@ -1,4 +1,4 @@
-### <h1 align = 'right'>![](https://visitor-badge.glitch.me/badge?page_id=manozjinagal)</h1>
+<a> <h1 align = 'right'>![](https://visitor-badge.glitch.me/badge?page_id=manozjinagal)</h1> </a>
 ### Hi There 👋
 - 🌱 I’m currently Studying MCA   
 - 🌱 I’m currently learning everything 🤣
