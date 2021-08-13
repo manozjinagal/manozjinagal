@@ -1,4 +1,4 @@
-### Hi There 👋 <h1 align = 'right'>![](https://visitor-badge.glitch.me/badge?page_id=manozjinagal)</h1>
+### Hi There 👋                        ![](https://visitor-badge.glitch.me/badge?page_id=manozjinagal)
 - 🌱 I’m currently Studying MCA   
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: Still writing
