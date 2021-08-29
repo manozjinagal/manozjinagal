@@ -1,6 +1,5 @@
 ### Hi There 👋                        ![](https://visitor-badge.glitch.me/badge?page_id=manozjinagal)
-- 🌱 I’m currently Studying MCA   
-- 💬 Ask me about Java
+- 🌱 I’m currently Studying MCA 
 ### Let's Play Chess [<img align="left" alt="Manoz's LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/lichess.svg" />][lichess]
 
 ### 📫 How to reach me:
