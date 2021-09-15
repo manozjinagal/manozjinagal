@@ -11,6 +11,7 @@
 [<img align="left" alt="codeSTACKr | GMail " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][Mail]
 [<img align="left" alt="codeSTACKr | Facebook " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Manoz's LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/leetcode.svg" />][leetcode]
+[<img align="left" alt="Manoz's codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/codechef.svg" />][codechef]
 -
 
 
@@ -51,4 +52,5 @@ Here are some ideas to get you started:
 [Mail]: https://mail.google.com/mail/?view=cm&fs=1&to=manozjinagal@gmail.com
 [facebook]:https://www.facebook.com/manozjinagal
 [leetcode]: https://www.leetcode.com/manozjinagal
+[codechef]: https://www.codechef.com/users/manozjinagal
 [lichess]: https://lichess.org/@/manozJinagal
